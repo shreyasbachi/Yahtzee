@@ -1,3 +1,11 @@
+/*
+Author: Shreyas Bachiraju
+Date: 5 February 2024
+Description: The Scoresheet class manages a player's scores across the various Yahtzee categories, 
+  	     calculating scores based on dice rolls and tracking which categories have been used. 
+	     It supports operations to update and retrieve scores, as well as to choose categories after rolling. 
+*/
+
 import java.util.HashMap;
 import java.util.*;
 
