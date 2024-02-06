@@ -1,3 +1,11 @@
+/*
+Author: Shreyas Bachiraju
+Date: 5 February 2024
+Description: Player encapsulates all aspects of a player's participation in the game, including their dice rolls, 
+	     the management of their dice cup, and their scoring decisions. This class handles the logic for rolling dice, 
+	     holding specific dice between rolls, and selecting scoring categories on the scoresheet.
+*/
+
 public class Player {
 	private int numRolls; // Number of rolls the player has made in the current turn
 	private DiceCup diceCup; // Dice cup containing the player's dice
