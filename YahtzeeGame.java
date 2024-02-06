@@ -1,3 +1,11 @@
+/*
+Author: Shreyas Bachiraju
+Date: 5 February 2024
+Description: The YahtzeeGame class orchestrates the overall flow of a Yahtzee game, managing player turns, the game state, 
+	     and user interactions through a console-based interface. 
+	     It initializes the game, conducts rounds, and processes player inputs for rolling dice and scoring.
+*/
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
