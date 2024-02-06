@@ -1,3 +1,11 @@
+/*
+Author: Shreyas Bachiraju
+Date: 4 February 2024
+Description: DiceCup acts as a container for multiple dice, enabling collective rolling and individual 
+			 manipulation of each die's "held" status. It offers functionality to roll all unheld dice, hold or release specific dice, 
+			 and retrieve the current values of the dice.
+ */
+
 public class DiceCup {
     private Die[] diceArr; // Array of all the dice
     private int numDice; // Number of dice in the diceCup
