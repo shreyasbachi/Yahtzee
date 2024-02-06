@@ -1,3 +1,10 @@
+/*
+Author: Shreyas Bachiraju
+Date: 5 February 2024
+Description: This class models a single die with a customizable number of sides, capable of rolling to generate a random value within its range. 
+	     It provides methods to get the current face value, set a specific value, and determine the number of sides.
+*/
+
 import java.util.Random;
 
 public class Die {
